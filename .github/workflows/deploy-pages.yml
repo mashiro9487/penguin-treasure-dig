@@ -1,3 +1,4 @@
+# Redeploy after GitHub Pages was enabled in repository settings.
 name: Publish game to GitHub Pages
 on:
   push:
